@@ -350,7 +350,7 @@ body {
     letter-spacing: -0.03em;
     margin-bottom: 2rem;
     font-family: var(--font-heading);
-    color: #1a1a1a;
+    color: #000000;
     opacity: 0;
     animation: fadeInUp 1s ease-out 0.8s forwards;
 }
