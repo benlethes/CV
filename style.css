@@ -761,3 +761,11 @@ html, body {
 }
 
 .mobile-nav { display: none; }
+
+.modal-body a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: opacity 0.2s;
+}
+
+.modal-body a:hover { opacity: 0.65; }
